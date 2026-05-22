@@ -1,0 +1,10 @@
+Resultados de las pruebas de rutas GET en el navegador:
+
+1. http://localhost:3000
+   Ocurre: El navegador muestra el texto "Servidor activo". Esto confirma que la raíz del servidor responde correctamente al método GET.
+
+2. http://localhost:3000/saludo
+   Ocurre: El navegador muestra el texto "Hola comunidad". Responde de forma estática al endpoint específico configurado.
+
+3. http://localhost:3000/mensaje/juan
+   Ocurre: El navegador muestra el texto "Hola juan". El servidor lee el parámetro dinámico ":nombre" de la URL (en este caso, 'juan') y lo concatena en la respuesta.
