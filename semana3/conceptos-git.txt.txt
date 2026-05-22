@@ -1,0 +1,5 @@
+Repositorio: Es una carpeta digital inteligente en la nube o local donde se almacenan todos los archivos, códigos y el historial completo de cambios de un proyecto de software.
+
+Commit: Es un comando que funciona como un punto de guardado en el historial del proyecto, registrando de forma exacta qué cambios se hicieron y quién los realizó en un momento específico.
+
+Push: Es el comando que se encarga de subir y sincronizar todos los commits guardados localmente en la computadora hacia el repositorio remoto en GitHub.
